@@ -13,9 +13,11 @@ clanvalue - if implemented would allow being to help one another
 
 mass - starting value between 0,100
 size - random value between 0,2 * (mass/100)
+aggressiveness - random starting value bewtween 1,0 * (strength/k) * (strength*size)
 
 
 
 
 
 getfood - order decided on speed, predefined probability whether they find food, limited food per day
+
