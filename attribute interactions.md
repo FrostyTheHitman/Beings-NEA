@@ -1,8 +1,8 @@
 food - NA
 mass - random starting values
 size - Dependant on: random starting value, mass, can be increased with usage of food(growth)
-aggressiveness - Dependant on: random starting value, Size, strength
 strength - Dependant on: random starting value, size, can be increased with usage of food(growth)
+aggressiveness - Dependant on: random starting value, Size, strength
 fightingprowess - Dependant on: random starting value, strength
 speed - Dependant on: size, mass, strength
 scent - random starting value
