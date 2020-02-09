@@ -26,4 +26,4 @@ daily food consumption - rsvb 0,1 * mass
 
 getfood - order decided on speed, predefined probability whether they find food, limited food per day
 
-conflict - if a being has a high enough aggressiveness value, it can use its senses value to determine whether it will encounter another being, if great disparity in aggressiveness autowin - steal food, otherwise initiate combat, use fightingprowess values, higher value wins, takes food and loser suffers a debuff for random amout of days, reduced agressiveness, winner increases aggressiveness
+conflict - if a being has a high enough aggressiveness value, it can use its senses value to determine whether it will encounter another being, if great disparity in aggressiveness autowin - steal food, otherwise initiate combat, use fightingprowess values, higher value wins, takes food and loser suffers a debuff for random amout of days, reduced aggressiveness, winner increases aggressiveness
